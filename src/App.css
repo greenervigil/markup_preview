@@ -13,6 +13,41 @@
   }
 }
 
+body{
+  background-color: #C2D3CD;  
+}
+
+.title {
+  color: #56494C;
+  text-align: center;
+}
+
+.app{
+  max-width:600px;
+  margin:auto;
+}
+
+code {
+  background-color: #C2D3CD;
+}
+
+#preview{
+  background-color:white;
+  border: 1px solid;
+  border-radius: 10px;
+  height: 1000px;
+  padding:10px;
+}
+
+footer {
+  background: #5a7d7c;
+  height: 100px;
+  margin: 20px 0 0 0;
+  text-align: center;
+  padding: 50px 0 0 0;
+  width: 100%;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
